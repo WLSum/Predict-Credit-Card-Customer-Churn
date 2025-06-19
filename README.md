@@ -1,5 +1,9 @@
 # Predicting Credit Card Customer Churn using Dimensionality Reduction and Classification Models
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/11bb5ea6-4325-46c9-b274-f1930977aeb7" height="300" width="600">
+</div>
+
 Customer churn is a common challenge for businesses such as banks to retain their credit card customers. This project aims to identify customers at risk of churning, enabling banks to proactively target and potentially retain these customers through tailored strategies. This project will first introduce and visualize the customer dataset to provide insights into patterns that may influence churn. 
 
 To capture the most significant patterns and reduce the complexity of the customer data, we will apply three dimensionality reduction methods: `Principal Component Analysis (PCA)`, `Kernel PCA (RBF and Linear kernels)`, and `Autoencoders`. These methods are evaluated based on their ability to capture the dataset's variance and minimize reconstruction error, striking a balance between representability and complexity.
