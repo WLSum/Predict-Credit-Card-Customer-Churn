@@ -68,3 +68,9 @@ Model evaluation is conducted using log-loss, which measures how close the predi
 
 This allows for a direct comparison of model perfomance in the different classification models, as well as the impact of dimensionality reduction. The test set log-loss scores further demonstrate each model's ability to generalize to unseen data, ensuring a comprehensive evaluation of model effectiveness.
 
+# Conclusion
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7457dccb-dde1-4ba8-9375-7999c6a44505" height="300" width="1200">
+</div>
+
